@@ -1093,6 +1093,7 @@ It's on GitHub for a reason! Please submit pull requests.
 | [Moo](https://www.moo.com) | [@MOO](https://twitter.com/MOO) | - | - |
 | [PSPrint](https://www.psprint.com) | [@PsPrint](https://twitter.com/psprint) | - | - |
 | [Vista Print](https://vistaprint.com) | [@Vistaprint](https://twitter.com/vistaprint) | - | - |
+| [Uprinting](https://uprinting.com) | [@Uorinting](https://twitter.com/uprinting) | - | - |
 
 ## Presentations / Slides
 
